@@ -1,1 +1,2 @@
 # devops
+Django, Terraform, AWS
